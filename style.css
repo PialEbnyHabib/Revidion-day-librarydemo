@@ -1,0 +1,169 @@
+.body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0%;
+    padding: 0%;
+}
+
+
+.top{
+    font-family: 'Poppins', sans-serif;
+height: 120px;
+width: 100%;
+background-color: rgb(39, 39, 39);
+margin: 0px;
+font-size: 18px;
+padding: 0%;
+
+}
+
+.top img{
+    position: relative;
+    left: -300px;
+    margin-top: 25px;
+}
+
+
+.top ul li{
+    list-style: none;
+    padding: 50px 20px;
+    float: left;
+    position: relative;
+    left: 970px;
+    
+}
+
+.topinfo{
+    display: inline;
+}
+
+
+
+
+.element{
+    
+    float: left;
+    color: white;
+    text-decoration: none;
+}
+
+.cover
+{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+    padding: 0%;
+    
+    
+}
+
+.info{
+    font-family: 'Poppins', sans-serif;
+    width: 70%;
+    margin-left: 15%;
+    height: 500px;
+   margin-top: 3%;
+   float: left;
+   padding-bottom: 10px;
+}
+
+#boxstory{
+
+    height: 400px;
+    width: 600px;
+    overflow: scroll;
+    box-shadow: 10px 10px 20px rgb(173, 170, 170);
+    padding-left: 8px;
+    
+}
+
+.storybox{
+    float: left;
+   
+}
+
+#videobox{
+    margin-left: 140px;
+}
+
+
+.form{
+    font-family: 'Poppins', sans-serif;
+    height: 700px;
+    width: 70%;
+    margin-left: 15%;
+    margin-top: 30%;
+}
+
+.formember{
+    font-family: 'Poppins', sans-serif;
+    margin : 2%;
+    float: left;
+    padding: 1%;
+    
+    
+}
+#writerpic{
+
+    position:relative;
+    left: 300px;
+    margin-top: -20px;
+
+}
+
+
+.rotate{
+    font-size: 50px;
+    color: rgb(51, 48, 48);
+    margin-left: 5%;
+    transition: transform 1s ease-in 1s;
+}
+
+.rotate:hover{
+    transform:rotateX(360deg)
+    
+}
+
+
+.newdata
+{
+    height: 30px;
+    width: 250px;
+    padding: 1%;
+    border-radius: 10px;
+    box-shadow: 2px 2px 3px gray;
+
+}
+
+.newdatar{
+
+    width: 50px;
+}
+
+.foot{
+
+    height: 250px;
+    width: 100%;
+    background-color: rgb(22, 22, 22);
+}
+
+.finalinfo{
+    font-family: 'Poppins', sans-serif;
+    color: rgb(240, 238, 235);
+    font-size: 15px;
+    padding: 0%;
+    margin-left: 18%;
+   
+    
+}
+
+.bottomline{
+    font-family: 'Poppins', sans-serif;
+    color: rgb(221, 220, 218);
+    font-size: 12px;
+    letter-spacing: 2px;
+    position: relative;
+    top: 40px;
+    text-align: center;
+    
+}
